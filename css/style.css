@@ -8,3 +8,29 @@ header
     background-color: #dbde49;
     text-align: center;
 }
+
+.header-links
+{
+    font-family: Impact;
+    text-decoration: none;
+    color: #d17f21;
+}
+
+body
+{
+    background-image: linear-gradient(100deg, #a9a413 0%, #975c19 100%);
+}
+
+.home-layout
+{
+    padding: 5px;
+    margin: 8px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.text-plate
+{
+    background-color: #583d1f;
+    color:  #e2e46b;
+}
